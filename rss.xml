@@ -4,17 +4,17 @@
         <link>https://github.com/cpeopl1/mcradio</link>
         <description>Keep it simple. Choose life.</description>
         <image>
-            <url>https://github.com/cpeopl1/mcradio/blob/main/THE%20HOT%20DEATHWIFE%20NEXT%20DOOR%20PRESENTS(1).jpg</url>
+            <url>https://archive.org/details/mcradio-1-1400x1400</url>
             <title>Medicine Cabinet Radio</title>
-            <link>https://github.com/cpeopl1/mcradio</link>
+            <link>https://archive.org/details/mcradio-1-1400x1400</link>
         </image>
 
         <item>
             <title>TEST AUDIO</title>
-            <link>https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link</link>
-            <enclosure url="https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link" length="1234567" type="audio/mpeg"/>
-            <guid>https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link</guid>
-            <pubDate>Thu, 01 Apr 2023 00:00:00 GMT</pubDate>
+            <link>https://archive.org/details/test-audio-1</link>
+            <enclosure url="https://archive.org/details/test-audio-1" length="1234567" type="audio/mpeg"/>
+            <guid>https://archive.org/details/test-audio-1</guid>
+            <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
             <description>Episode 1 description</description>
         </item>
 
