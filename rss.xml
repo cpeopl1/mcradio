@@ -18,5 +18,14 @@
             <description>Episode 1 description</description>
         </item>
 
+        <item>
+            <title>buen día</title>
+            <link>https://ia601209.us.archive.org/25/items/nueva-grabacion-50/Nueva%20grabacio%CC%81n%2050.m4a</link>
+            <enclosure url="https://ia601209.us.archive.org/25/items/nueva-grabacion-50/Nueva%20grabacio%CC%81n%2050.m4a" length="1234567" type="audio/mpeg"/>
+            <guid>https://ia601209.us.archive.org/25/items/nueva-grabacion-50/Nueva%20grabacio%CC%81n%2050.m4a</guid>
+            <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+            <description>Episode 1 description</description>
+        </item>
+
     </channel>
 </rss>
