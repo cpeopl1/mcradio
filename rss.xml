@@ -1,19 +1,19 @@
 <rss version="2.0">
     <channel>
         <title>Medicine Cabinet Radio</title>
-        <link>https://github.com/yourrepo</link>
+        <link>https://github.com/cpeopl1/mcradio</link>
         <description>Keep it simple. Choose life.</description>
         <image>
-            <url>https://github.com/yourrepo/path/to/podcast-art.jpg</url>
-            <title>Podcast Title</title>
-            <link>https://github.com/yourrepo</link>
+            <url>https://github.com/cpeopl1/mcradio/blob/main/THE%20HOT%20DEATHWIFE%20NEXT%20DOOR%20PRESENTS(1).jpg</url>
+            <title>Medicine Cabinet Radio</title>
+            <link>https://github.com/cpeopl1/mcradio</link>
         </image>
 
         <item>
-            <title>Episode 1</title>
-            <link>https://github.com/yourrepo/episode-1.mp3</link>
-            <enclosure url="https://github.com/yourrepo/episode-1.mp3" length="1234567" type="audio/mpeg"/>
-            <guid>https://github.com/yourrepo/episode-1.mp3</guid>
+            <title>TEST AUDIO</title>
+            <link>https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3</link>
+            <enclosure url="https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3" length="1234567" type="audio/mpeg"/>
+            <guid>https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3</guid>
             <pubDate>Thu, 01 Apr 2023 00:00:00 GMT</pubDate>
             <description>Episode 1 description</description>
         </item>
