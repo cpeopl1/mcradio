@@ -11,9 +11,9 @@
 
         <item>
             <title>TEST AUDIO</title>
-            <link>https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3</link>
-            <enclosure url="https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3" length="1234567" type="audio/mpeg"/>
-            <guid>https://github.com/cpeopl1/mcradio/blob/main/TEST-AUDIO-1.mp3</guid>
+            <link>https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link</link>
+            <enclosure url="https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link" length="1234567" type="audio/mpeg"/>
+            <guid>https://drive.google.com/file/d/1jLQHmuUGmPHwP1ueQuXWGA4jTaFWAPQm/view?usp=drive_link</guid>
             <pubDate>Thu, 01 Apr 2023 00:00:00 GMT</pubDate>
             <description>Episode 1 description</description>
         </item>
