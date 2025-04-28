@@ -4,16 +4,16 @@
         <link>https://github.com/cpeopl1/mcradio</link>
         <description>Keep it simple. Choose life.</description>
         <image>
-            <url>https://archive.org/details/mcradio-1-1400x1400</url>
+            <url>https://archive.org/download/mcradio-1-1400x1400/mcradio-1-1400x1400.jpg</url>
             <title>Medicine Cabinet Radio</title>
-            <link>https://archive.org/details/mcradio-1-1400x1400</link>
+            <link>https://archive.org/download/mcradio-1-1400x1400/mcradio-1-1400x1400.jpg</link>
         </image>
 
         <item>
             <title>TEST AUDIO</title>
-            <link>https://archive.org/details/test-audio-1</link>
-            <enclosure url="https://archive.org/details/test-audio-1" length="1234567" type="audio/mpeg"/>
-            <guid>https://archive.org/details/test-audio-1</guid>
+            <link>https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3</link>
+            <enclosure url="https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3" length="1234567" type="audio/mpeg"/>
+            <guid>https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3</guid>
             <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
             <description>Episode 1 description</description>
         </item>
