@@ -4,13 +4,13 @@
         <link>https://github.com/cpeopl1/mcradio</link>
         <description>Keep it simple. Choose life.</description>
         <image>
-            <url>https://archive.org/download/mcradio-1-1400x1400/mcradio-1-1400x1400.jpg</url>
+            <url>https://archive.org/download/mcradio-2-1400x1400/mcradio-2-1400x1400.jpg</url>
             <title>Medicine Cabinet Radio</title>
-            <link>https://archive.org/download/mcradio-1-1400x1400/mcradio-1-1400x1400.jpg</link>
+            <link>https://archive.org/download/mcradio-2-1400x1400/mcradio-2-1400x1400.jpg</link>
         </image>
 
         <item>
-            <title>TEST AUDIO</title>
+            <title>tldr; but with soul</title>
             <link>https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3</link>
             <enclosure url="https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3" length="1234567" type="audio/mpeg"/>
             <guid>https://ia601209.us.archive.org/4/items/test-audio-1/TEST-AUDIO-1.mp3</guid>
